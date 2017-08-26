@@ -349,3 +349,7 @@ C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar d
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Jose\Documents\GitHub\Excepciones_usuario\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Jose\Documents\GitHub\Excepciones_usuario\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Jose\Documents\GitHub\Excepciones_usuario\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Jose\Documents\GitHub\Excepciones_usuario\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
