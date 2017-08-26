@@ -52,7 +52,6 @@ Partial Class Form1
         Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
         Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
-        Me.DGVajuste = New System.Windows.Forms.DataGridView()
         Me.btnmmensual = New System.Windows.Forms.Button()
         Me.btnmquinc = New System.Windows.Forms.Button()
         Me.btnmcato = New System.Windows.Forms.Button()
@@ -120,6 +119,7 @@ Partial Class Form1
         Me.DGVH002 = New System.Windows.Forms.DataGridView()
         Me.DGVH046 = New System.Windows.Forms.DataGridView()
         Me.Dataprima1 = New importar.dataprima()
+        Me.DGVajuste = New System.Windows.Forms.DataGridView()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DataGridView3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -141,7 +141,6 @@ Partial Class Form1
         Me.TabPage2.SuspendLayout()
         CType(Me.datagridpria, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage3.SuspendLayout()
-        CType(Me.DGVajuste, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgvpensionesm, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgvisr2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgvotrosdescuentos2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -180,6 +179,7 @@ Partial Class Form1
         CType(Me.DGVH002, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DGVH046, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Dataprima1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.DGVajuste, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'DataGridView1
@@ -329,7 +329,7 @@ Partial Class Form1
         '
         'btnfoldur
         '
-        Me.btnfoldur.Location = New System.Drawing.Point(699, 60)
+        Me.btnfoldur.Location = New System.Drawing.Point(699, 64)
         Me.btnfoldur.Name = "btnfoldur"
         Me.btnfoldur.Size = New System.Drawing.Size(150, 23)
         Me.btnfoldur.TabIndex = 28
@@ -518,14 +518,6 @@ Partial Class Form1
         Me.TabPage3.Size = New System.Drawing.Size(1079, 662)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "Exportaciones Morget"
-        '
-        'DGVajuste
-        '
-        Me.DGVajuste.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DGVajuste.Location = New System.Drawing.Point(824, 74)
-        Me.DGVajuste.Name = "DGVajuste"
-        Me.DGVajuste.Size = New System.Drawing.Size(249, 79)
-        Me.DGVajuste.TabIndex = 24
         '
         'btnmmensual
         '
@@ -1238,6 +1230,14 @@ Partial Class Form1
         Me.Dataprima1.DataSetName = "dataprima"
         Me.Dataprima1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
         '
+        'DGVajuste
+        '
+        Me.DGVajuste.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DGVajuste.Location = New System.Drawing.Point(824, 74)
+        Me.DGVajuste.Name = "DGVajuste"
+        Me.DGVajuste.Size = New System.Drawing.Size(249, 79)
+        Me.DGVajuste.TabIndex = 24
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1272,7 +1272,6 @@ Partial Class Form1
         CType(Me.datagridpria, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage3.ResumeLayout(False)
         Me.TabPage3.PerformLayout()
-        CType(Me.DGVajuste, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgvpensionesm, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgvisr2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgvotrosdescuentos2, System.ComponentModel.ISupportInitialize).EndInit()
@@ -1313,6 +1312,7 @@ Partial Class Form1
         CType(Me.DGVH002, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DGVH046, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Dataprima1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DGVajuste, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
