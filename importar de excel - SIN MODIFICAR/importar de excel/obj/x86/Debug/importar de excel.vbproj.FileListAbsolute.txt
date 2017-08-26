@@ -1,0 +1,351 @@
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel - copia (2)\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel  ipp-kiosco\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\José Manuel\Documents\Visual Studio 2010\Projects\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\Desktop\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\Desktop\escritorio\importar\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Desktop\escritorio\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 22\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - noviembre 23\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - abril - copia\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar - julio local\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\importar Excepciones\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\importar Excepciones - modificacion Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.config
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\importar de excel.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Data.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\System.Deployment.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Form1.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.TrustInfo.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Excepciones Aicel\importar de excel - SIN MODIFICAR\importar de excel\obj\x86\Debug\importar de excel.application

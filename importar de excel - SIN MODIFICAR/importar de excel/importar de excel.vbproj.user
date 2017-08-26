@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>ftp://atalanta.com.mx/importartxt3/|ftp://atalanta.com.mx/importartxt4/|ftp://atalanta.com.mx/importartxt/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://atalanta.com.mx/descargas/importartxt3/|http://atalanta.com.mx/descargas/importartxt4/|http://atalanta.com.mx/descargas/importartxt/|http://atalanta.com.mx/descargas/Kiosco/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://atalanta.com.mx/descargas/importartxt4/|http://atalanta.com.mx/descargas/importartxt3/|http://atalanta.com.mx/descargas/importartxt/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\bin\Debug\importar.exe
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\bin\Debug\importar.pdb
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\bin\Debug\importar.xml
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\obj\x86\Debug\importar.Form1.resources
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\obj\x86\Debug\importar.Resources.resources
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\obj\x86\Debug\importar.vbproj.GenerateResource.Cache
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\obj\x86\Debug\importar.exe
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\obj\x86\Debug\importar.xml
+C:\Users\Soporte\AppData\Local\Temporary Projects\importar\obj\x86\Debug\importar.pdb
